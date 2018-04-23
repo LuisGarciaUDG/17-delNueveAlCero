@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1424840025 source:c:\users\luis\dropbox\inco\programación\programa 17 (numeros del 9 al 0)\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
